@@ -59,18 +59,12 @@ Project Management Intern, Test Management Center,	      Aug. 2020 – Sep. 2020
 
 Selected Awards	
 ======
-* Chinese National Scholarship (Top 1%) 	                            Oct. 2020
-* Chinese National Scholarship (Top 1%) 	                            Oct. 2019
-* Freshman Admission Scholarship of Tengfei College, Fudan (Top 2%) 	Sep. 2018
+* Chinese National Scholarship (Top 1%),	                            Oct. 2020
+* Chinese National Scholarship (Top 1%), 	                            Oct. 2019
+* Freshman Admission Scholarship of Tengfei College, Fudan (Top 2%), 	Sep. 2018
   
 Skills
 ======
 * Programming languages: Python, Java, C/C++, JavaScript, MATLAB, HTML, CSS
 * Spoken languages: Chinese-Native, English-Fluent (TOEFL iBT: 111)
 * Other skills: photography, Final Cut Pro, Photoshop, Axure, Office
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
