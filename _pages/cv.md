@@ -9,15 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+[download](cv.pdf)
+
 Education
 ======
-School of Computer Science, Fudan University	Shanghai, China  
-Bachelor of Computer Science, Jul. 2022(expected)
-* Cumulative GPA: 3.83/4.0, School Rank:1/153
+* School of Computer Science, Fudan University	Shanghai, China  
+  * Bachelor of Computer Science, Jul. 2022(expected)
+  * Cumulative GPA: 3.83/4.0, School Rank:1/153
 
 Publication
 ======
 * Structural Hole Theory in Social Network Analysis: A Review.
+  
   Zihang Lin#, Yuwei Zhang#, Qingyuan Gong, Yang Chen, Atte Oksanen, Aaron Yi Ding.
   To appear: IEEE Transactions on Computational Social Systems (TCSS).
 

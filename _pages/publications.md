@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Structural Hole Theory in Social Network Analysis: A Review.
+  Zihang Lin#, Yuwei Zhang#, Qingyuan Gong, Yang Chen, Atte Oksanen, Aaron Yi Ding.
+  To appear: IEEE Transactions on Computational Social Systems (TCSS).
