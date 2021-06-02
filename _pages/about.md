@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YuweiZhang"
+title: "Yuwei Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
