@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuwei Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yuwei Zhang"
+description              : &description "Third-year student at the School of Computer Science at Fudan University"
 url                      : https://evelyn0414.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evelyn0414/academicpages.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Evelyn Zhang"
+  name             : "Yuwei Zhang"
   avatar           : "profile.JPG"
-  bio              : "A third-year student  the School of Computer Science at Fudan University"
+  bio              : "Third-year student at the School of Computer Science at Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
